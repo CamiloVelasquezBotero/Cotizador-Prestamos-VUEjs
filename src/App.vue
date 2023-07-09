@@ -105,7 +105,7 @@
       <p class="text-xl text-gray-500 text-center font-bold">Mensuales: {{ formatearDinero(pagoMensual) }}</p><!-- nuestra funcion formatear se le puede pasar normalmente un computedProperties -->
     </div>
 
-    <p v-else class="text-center">Añade una cantidad y un plazo a pagar</p>
+    <p v-else class="text-xl text-gray-500 text-center font-bold">Añade una cantidad y un plazo a pagar</p>
   </div>
 </template>
 
