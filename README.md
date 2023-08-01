@@ -5,4 +5,4 @@ Mientras mayor sea la cantidad a prestar menor sera el interes y entre mayor sea
 
 Se utilizan estilos de Tailwind para darle un buen aspecto visual Y dando asi una buena experiencia de usuario gracias a VUE.
 
-Preview: https://cotizadorprestamosconvue.netlify.app/
+Preview: https://cotizador-prestamos-vuejs.vercel.app/
